@@ -1,0 +1,31 @@
+:root {
+  /* fonts */
+  --font-jost: Jost;
+  --font-inter: Inter;
+  --font-gruppo: Gruppo;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 20px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 25px;
+  --font-size-4xl: 29px;
+  --font-size-5xl: 31px;
+  --font-size-6xl: 33px;
+  --font-size-7xl: 38px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: rgba(217, 217, 217, 0);
+  --color-violet: #2d83ee;
+  --color-indigo-100: #15306f;
+  --color-black: #000;
+  --color-blue-100: rgba(0, 26, 255, 0.6);
+
+  /* border radiuses */
+  --br-xs: 7px;
+  --br-sm: 12px;
+  --br-md: 16px;
+  --br-lg: 39px;
+}
